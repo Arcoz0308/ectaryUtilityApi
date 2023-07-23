@@ -1,0 +1,19 @@
+# the port of the website
+port = 8000
+
+[database]
+
+# the user that connect to db
+user = ""
+
+# the db password
+password = ""
+
+# the type of net connection for the db
+netType = "tcp"
+
+# the host address of the db
+host = ""
+
+# the name of the database
+dbName = "EctaryNetwork2"
